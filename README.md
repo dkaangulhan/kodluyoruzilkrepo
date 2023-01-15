@@ -5,7 +5,9 @@ Kodluyoruz Front-End Eğitimi kapsamında açtığım ilk repo. Bir adet README.
 
 ## Yükleme
 Öncelikle projeyi clonlayın
-`git clone https://github.com/dkaangulhan/kodluyoruzilkrepo.git`
+```
+git clone https://github.com/dkaangulhan/kodluyoruzilkrepo.git
+```
 
 ## Kullanım
 Projeyi clone'ladıktan sonra Visual Studio Code ile açınız
@@ -16,7 +18,7 @@ cd kodluyoruzilkrepo
 code .
 ```
 
-## Desteklemek
+## Katkı
 Pull requestler kabul edilir. Büyük değişiklikler için, lütfen neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
 
 ## Lisans
