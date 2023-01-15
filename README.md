@@ -23,3 +23,5 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen neyi deği�
 
 ## Lisans
 [MIT](https://choosealicense.com/licenses/mit/)
+
+patika.dev adresim : https://app.patika.dev/dkaan
